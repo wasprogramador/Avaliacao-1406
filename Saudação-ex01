@@ -1,0 +1,10 @@
+print("Ola seja bem vindo, é um prazer conhece-lo")
+input("responda: ")
+print("oque você gosta de fazer nas horas vagas?")
+input("responda: ")
+print("oh! legal :)")
+input("responda: ")
+print("vamos começar os códigos, você tem dois desafios para fazer!!!")
+print("primeiro: impressão de números ímpares")
+print("e o segundo: Verificação de ano bissexto")
+#Washington Soares e Fernando
